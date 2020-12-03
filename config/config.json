@@ -1,0 +1,7 @@
+{
+  "prefix": "$",
+  "initial_audio_src": "https://www.youtube.com/watch?v=oFwFw2YvUKY",
+  "hotword": "bumblebee",
+  "queueSize": 3,
+  "key": "AIzaSyAADz7adQZy8gJTM7iovLvjJXZEjjd-mTM"
+}
